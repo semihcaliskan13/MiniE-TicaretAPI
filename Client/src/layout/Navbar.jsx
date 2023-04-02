@@ -34,7 +34,7 @@ const Navbar = () => {
         <AcUnit fontSize='medium' sx={{ color: "#75E6DA", display: { xs: "block", sm: "none" } }} />
 
         <Icons sx={{ display: { xs: "none", sm: "flex" } }}>
-          <Link style={{textDecoration:'none'}} to="/Register"><Button>Üye Ol</Button></Link>
+          <Link style={{textDecoration:'none'}} to="/Register"><Button>Kayıt Ol</Button></Link>
 
 
           <Link style={{textDecoration:'none'}} to="/Login" ><Button>Giriş Yap</Button></Link>

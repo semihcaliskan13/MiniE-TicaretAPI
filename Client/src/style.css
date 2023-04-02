@@ -1,0 +1,35 @@
+   .stickyy {
+
+     background-color: white;
+     position: sticky;
+     top: 0;
+     text-align: flex-end;
+     padding: 50px;
+   }
+
+   .outfits {
+     margin: 10px;
+     margin-left: 25px;
+     width: 70%;
+   }
+
+   .favorite {
+     position: absolute;
+     margin-left: 10%;
+   }
+
+   .container {
+     position: relative;
+     float: left;
+   }
+
+   .container img {
+     display: block;
+   }
+
+   .container .fa-download {
+     position: absolute;
+     top: 3%;
+     left: 63%;
+   }
+  

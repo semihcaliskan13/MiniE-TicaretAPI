@@ -3,7 +3,7 @@ Uygulama Docker ile derlenip imaj haline dönüştürülüp çalışılacak hale
 <br/>
 Client kısmı npm start ile başlatılabilir, arka uç tarafı için .Net projesi indirildikten sonra appsettings.json dosyasındaki "ConnectionString" geçerli MSSQL Server bağlantısı ile değiştirilerek sunucu tarafındaki rest api ayağa kaldırılabilir.
 <br/>
-Proje kullanımı için sayfa ilk açıldığında kullanıcıyı giriş ekranına yönlendirecektir, çünkü kullanıcının henüz bir giriş yaptığı üyeliği yoktur. Önce "Üye ol" butonu ile kayıt oluşturulur. Ardından tekrar "Giriş yap" butonuna basılıp oturum açılır.
+Proje kullanımı için sayfa ilk açıldığında kullanıcıyı giriş ekranına yönlendirecektir, çünkü kullanıcının henüz bir giriş yaptığı üyeliği yoktur. Önce "Kayıt ol" butonu ile kayıt oluşturulur. Ardından tekrar "Giriş yap" butonuna basılıp oturum açılır.
 <br/>
 Yönlenilen sayfa ana sayfadır ve 3 ürün gözükür. Ürünlere teklif vermek için "Açık arttırmaya katıl" butonuna basılır. Ardından metin alanına istenen değer girilir ve "Teklif ver" butonu ile teklif verilebilir.
 <br/>

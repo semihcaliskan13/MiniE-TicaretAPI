@@ -1,0 +1,15 @@
+C:\Users\semih\source\repos\Kripto\Kripto\bin\Debug\net6.0\Kripto.exe
+C:\Users\semih\source\repos\Kripto\Kripto\bin\Debug\net6.0\Kripto.deps.json
+C:\Users\semih\source\repos\Kripto\Kripto\bin\Debug\net6.0\Kripto.runtimeconfig.json
+C:\Users\semih\source\repos\Kripto\Kripto\bin\Debug\net6.0\Kripto.dll
+C:\Users\semih\source\repos\Kripto\Kripto\bin\Debug\net6.0\Kripto.pdb
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.AssemblyInfoInputs.cache
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.AssemblyInfo.cs
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.dll
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\refint\Kripto.dll
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.pdb
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\Kripto.genruntimeconfig.cache
+C:\Users\semih\source\repos\Kripto\Kripto\obj\Debug\net6.0\ref\Kripto.dll

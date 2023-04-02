@@ -13,6 +13,7 @@ Bunu test etmek için birkaç tane sekme ile yeni üyelikler oluşturulabilir.
 <br/>
 Uygulamanın sağ üstündeki güvenlik ikonu ile CRUD işlemlerinin yapıldığı yönetici paneli tasarıma ek olarak yapılmıştır.
 <br/>
+Uygulamanın arka uç tarafında "ProductController" sınıfının "GetOfferByProductId" o anki teklifin değerini veri tabanından çekerken, "EditOffer" veri tabanına teklifi göndermeyi sağlıyor. Eğer veri tabanında bir değişiklik olursa farklı bir kullanıcı tarafından bu sefer SqlTableDependency klasöründeki "DatabaseSubscription" sınıfı değişikliği algılayıp veriyi geri dönderecek, Hub yardımı ile SignalR yani WebSocket bağlantısı ile mesaj anlık olarak bütün kullanıcı ara yüzlerine iletilecektir.
 Uygulamada kullanılan bileşenler;
 <br/>
 .Net Web API

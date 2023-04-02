@@ -30,3 +30,5 @@ Onion Architecture Mimarisi
 JWT Konfigürasyonu, Microsoft Identity ve HttpOnlyCookie ile kullanıcı ve oturum işlemleri
 <br/>
 Generic Repository Design Pattern
+<br/>
+"registirationKey":"4812c42fc36012274ff63230c6700b99bc4fef15e91d89b499f659414af29ba4"
